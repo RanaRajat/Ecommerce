@@ -1,0 +1,17 @@
+.navdiv{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    background-color: aliceblue;
+    height: 2rem;
+    align-items: center;
+}
+.navdiv>div{
+    width: 33%;
+    margin-left: 1%;
+
+}
+.navdiv>div>a{
+   text-decoration: solid;
+   color: black;
+}

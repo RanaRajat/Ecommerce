@@ -1,0 +1,24 @@
+.homeDivC{
+    width: 80%;
+    height: 80vh;
+    overflow: scroll;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    grid-gap: 3%;
+    margin-top: 5rem;
+}
+.innerDivC{
+    border: 0.1px solid rgba(20, 20, 20,0.2);
+    background-color: rgb(244, 248, 202);
+    width: 15rem;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5rem;
+    padding: 1%;
+}
+img{
+    width: 15rem;
+    height: 10rem;
+}
